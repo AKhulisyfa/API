@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "products": [
+    {
+      "id": "1",
+      "name": "NEW ARRIVAL",
+
+      "url": "https://images.vans.com/is/image/Vans/VN0A5JMPTWP-HERO?hei=494&wid=492&qlt=85",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": "Rp.15 Jt",
+      "color": "White"
+    },
+    {
+      "id": "2",
+      "name": "Custom Japstyle Yamaha Thunder",
+
+      "url": "https://images.vans.com/is/image/Vans/VN0A5JMPBTO-ALT1?hei=494&wid=492&qlt=85",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": "Rp.15 Jt",
+      "color": "White"
+    },
+    {
+      "id": "3",
+      "name": "Custom Japstyle Yamaha Thunder",
+
+      "url": "https://images.vans.com/is/image/Vans/VN0A5JMHYQW-ALT1?hei=494&wid=492&qlt=85",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": "Rp.15 Jt",
+      "color": "White"
+    }
+  ],
+  "totalRecordCount": 10,
+  "version": "17.0.13"
+}
